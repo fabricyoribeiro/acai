@@ -4,7 +4,7 @@ import Mixin from '../components/Mixin'
 import House from '../components/icons/House'
 import { useRouter } from 'next/router'
 
-export default function mixin() {
+export default function MixinRoute() {
   // const router = useRouter()
   // const {teste} = router.query
   // console.log(teste)
